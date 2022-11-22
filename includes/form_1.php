@@ -9,7 +9,7 @@
 	$input_504 = $_POST['input_504'];
 	$message = $_POST['message'];
 	
-	$to = 'receiver@yoursite.com'; // Email submissions are sent to this email
+	$to = 'jpatlmxdevdread@gmail.com'; // Email submissions are sent to this email
 
 	// Create email	
 	$email_subject = "Message from your website";
@@ -20,5 +20,4 @@
 	$headers .= "Reply-To: $input_504";	
 	
 	mail($to,$email_subject,$email_body,$headers); // Post message
-	return true;			
-?>
+	return true;
