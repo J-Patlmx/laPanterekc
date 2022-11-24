@@ -1,2 +1,3 @@
 # originalp4
-version non améliorée du p4
+
+version en cours damelioration du p4
