@@ -778,10 +778,18 @@ h4 {
 }
 
 .tc-white {
-  /* color: #f3976c !important;  */
-  color: black !important;
+  color: #f3976c !important;
 }
-
+#h1clear {
+  color: #000000 !important;
+  font-weight: bold;
+  font-size: 36px;
+}
+#pclear {
+  color: #000000 !important;
+  font-size: 20px;
+  font-weight: 500;
+}
 .btn-atomic-tangerine {
   background: #f3976c;
   color: #ffffff !important;
@@ -1053,8 +1061,4 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
-}
-.h1clear {
-  color: #fff !important;
-  font-weight: 500 !important;
 }
