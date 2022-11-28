@@ -860,7 +860,7 @@ h4 {
   }
 } */
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
   .b-parallax {
     background-attachment: scroll;
   }
@@ -870,7 +870,7 @@ h4 {
   .b-parallax {
     background-attachment: scroll;
   }
-}
+} */
 
 @media (max-width: 991px) {
   .container {
